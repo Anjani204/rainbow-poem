@@ -3,6 +3,7 @@ purple
 blue
 red
 unicorn
+Indigo
 green
 yellow
 and the unicorn
